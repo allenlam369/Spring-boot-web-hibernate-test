@@ -33,7 +33,7 @@ Testing how to combine several technologies to the new Spring framework
 ## Deploying the project
 - inside the "target" directory there should be a .war file created, for deploying to tomcat, jboss, websphere or any servlet container
 - This war file can even run by itself without deploy - because it has a built-in servlet container
-- For testing purpose, the built-in tomcat is set to run in localhost:9000
+- For testing purpose, the built-in runtime service is set to run in localhost:9000
 - In command line, in the root of the project (where you find pom.xml), type in:
 - mvn spring-boot:run
 - Spring will test the project for correctness, and then startup the built-in server.
