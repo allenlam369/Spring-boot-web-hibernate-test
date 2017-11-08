@@ -22,8 +22,8 @@ Testing how to combine several technologies to the new Spring framework
 
 ## Installation
 - download the project in zip
-- unzip it to find directory "spring-boot-test".
-- In command line, cd to "spring-boot-test". Find pom.xml there. All following commands should be issued from there.
+- unzip it to find the root directory of the project, where there is a file "pom.xml"
+- In command line, cd to the root dir. All following commands should be issued from there.
 - Download all missing library files and package the project into a .war file by this command:
 - mvn package
 - the first time packaging will need a little longer wait for many MBs of files to download
