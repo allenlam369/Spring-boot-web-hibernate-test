@@ -26,7 +26,7 @@ Testing how to combine several technologies to the new Spring framework
 - In command line, cd to "spring-boot-test". Find pom.xml there. All following commands should be issued from there.
 - Download all missing library files and package the project into a .war file by this command:
 - mvn package
-- the first time packaging will need a while of waiting for many MBs of files to download
+- the first time packaging will need a little longer wait for many MBs of files to download
 - When it is done without error, a new directory "target" will be created
 
 
@@ -36,7 +36,7 @@ Testing how to combine several technologies to the new Spring framework
 - For testing purpose, the built-in runtime service is set to run in localhost:9000
 - In command line, in the root of the project (where you find pom.xml), type in:
 - mvn spring-boot:run
-- Spring will test the project for correctness, and then startup the built-in server.
+- Spring will test the project for correctness, and then startup the built-in runtime.
 - When you see "Started WildflySpringBootApplication in xx seconds", it is ready to use.
 
 
