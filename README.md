@@ -14,9 +14,9 @@ Testing how to combine several technologies to the new Spring framework
 
 
 ## Prepare your system
-- Have java sdk bin in your classpath
-- Install Apache Maven. Have the bin in your classpath
-- Install Spring Boot CLI (https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-installing-the-cli). Have the bin in your classpath.
+- Have java sdk bin in your system path
+- Install Apache Maven. Have the bin in your system path
+- Install Spring Boot CLI (https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-installing-the-cli). Have the bin in your system path.
 - have a fast Internet connection
 
 
